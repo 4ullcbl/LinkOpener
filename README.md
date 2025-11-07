@@ -1,6 +1,6 @@
 # LinkOpener
 
-Simple Python-skript to open links from the terminal.
+Simple Python-script to open links from the terminal.
 
 ## Possibilities
 
